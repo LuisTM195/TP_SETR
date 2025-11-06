@@ -597,3 +597,37 @@ java.lang.Exception: Resource '/TPBare_Metal' does not exist.
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-11-06 19:24:49.287
 !MESSAGE Indexed 'TPBare_Metal' (31 sources, 163 headers) in 4.71 sec: 14,383 declarations; 51,600 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.36%)
+!SESSION 2025-11-06 19:27:29.530 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-11-06 19:27:40.099
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-11-06 19:27:40.101
+!MESSAGE Log4j2 initialized with config file C:\Users\ricar\OneDrive\01_Personal\00_School\04_IPCA\02_MEEC\6_SistemasEmbebidos\CubeIDE\TP_SETR\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-06 19:27:45.806
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-11-06 20:33:18.556 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  C:\Users\ricar\OneDrive\01_Personal\00_School\04_IPCA\02_MEEC\6_SistemasEmbebidos\CubeIDE\TP_SETR\TPBare_Metal\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\ricar\OneDrive\01_Personal\00_School\04_IPCA\02_MEEC\6_SistemasEmbebidos\CubeIDE\TP_SETR\TPBare_Metal\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-11-06 20:33:26.669
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-11-06 20:33:26.671
+!MESSAGE Log4j2 initialized with config file C:\Users\ricar\OneDrive\01_Personal\00_School\04_IPCA\02_MEEC\6_SistemasEmbebidos\CubeIDE\TP_SETR\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-06 20:33:33.066
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-11-06 20:33:36.841
+!MESSAGE Indexed 'TPBare_Metal' (31 sources, 131 headers) in 3.62 sec: 12,133 declarations; 46,615 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.41%)
